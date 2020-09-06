@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**guilefoylegaurav/guilefoylegaurav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Gaurav, a Computer Science and Engineering sophomore at NIT Silchar. 
+
+
+- 🔭 I’m currently working on a blood donor finder app
+- 🌱 I’m currently learning Deep Learning
+- 👯 I’m looking to collaborate on projects related to machine learning, web development, and cross-platform app development
+- 💬 Ask me about Machine Learning, Deep Learning, Web and app development, 
+- 📫 How to reach me: grvb1515@gmail.com
+- ⚡ Fun fact: I can learn things really fast
+
