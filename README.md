@@ -12,3 +12,6 @@ I am Gaurav, a Computer Science and Engineering sophomore at NIT Silchar.
 - 📫 How to reach me: grvb1515@gmail.com
 - ⚡ Fun fact: I can learn things really fast
 
+[![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=guilefoylegaurav)](https://github.com/anuraghazra/github-readme-stats)
+
+
