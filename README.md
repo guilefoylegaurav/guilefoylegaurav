@@ -1,17 +1,30 @@
-### Hello there! 👋
+<h1 align="center">Hi 👋, I'm Gaurav</h1>
+<h3 align="center">I am a full stack web developer, who also dabbles in Flutter and Machine Learning at times</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guilefoylegaurav&label=Profile%20views&color=0e75b6&style=flat" alt="guilefoylegaurav" /> </p>
 
+- 🌱 I’m currently learning **Data Structures and Algorithms mostly, and some OOP and DBMS**
 
-I am Gaurav, a Computer Science and Engineering sophomore at NIT Silchar. 
+- 💬 Ask me about **MERN stack, Flutter, Firebase**
 
+- 📫 How to reach me **grvb1515@gmail.com**
 
-- 🔭 I’m currently working on [Efficacy - A Club Management App by DSC](https://www.facebook.com/dscnits/photos/basw.AboLFSUB5K5miy8Q4-TPw4uT5-XoH1J0AnxG1aJUWtYXC8sDM39SLzUnyJprCgHQKdOYuGqLcGPD__WSRaSvW4LArY7xU7xlyDwB1NTZeyQH90fjJ46uNdzO9k-3eR8O9RxP3p6nFtgbqsNbSzPwrVgI/345752396867139/?opaqueCursor=AbpNIUCaM8qxa0Lo5pGsTO2zsZAzyJAM1SHjd6K0ImyDqzIjt1kIUDHy8Y2PXiAgvPgn_iM05m5eSC3lnRmvrRjsJw5WASHB4LpBYfDvLatNNZz6zvSuOU8AvnlBeUd6qZ23P140-VlBsMkM2YXtzWHlU0KNhhS5_JMDNthxf8C1KLnidum32HaFHhAwZkAkixaz0YH6ykqX--a6zNLU1z9J6rUpiu__xfr8HllQPL2nLluX79h7QG9GWPo5k0mr_suUZ7t15VKHCMik1xhGRgn2KTcv_TZUagwsQ9k1KlW3lBzb6TGliU3f8h7kgl79E91gYCIZZyZxkVDkbptKFmKvw4PVQMrC1WFjn2l9jnuQxYQO7QvjbRi3M6KEPoNZnrJOxBKfu39zHPJuCekItC3UnQy-vRnqysZjuTNlw-neDMlK7UAP0RtwigRyIjwJAoBzwe42JWCc2No7jMJXNmjkriTvNgh2cLJa3YPCce73ngfB2CqgJAEClrCD7Tpo7qsu-VX1boQWuL8rHqHvolXsSIxAz2NNakQq3dcIKtyQXj9hqqClsWfU1QNTIlHUvd8lHjfWMAFCAt4OEUH-uK8uqgBlZbI268XycDTQKxU-s6uHZ3KKCnR6sfqUMsPCaIQw61LrvV49Op-ukc74OXajRsTEtScuLhX4JmKPPmNk7lRAXWd-RQP7hpxiCByoJO8kTt3TwgvQ_l2VXXLrQ6ax8lYGlAPh6nN5tCxXf0EmWQ) and [a web app to easily store and manage medical documents](https://www.facebook.com/groups/dscnits/permalink/936600483499603)
-- 🌱 I’m currently learning [React](https://reactjs.org/) and [Firebase](https://firebase.google.com/?gclid=Cj0KCQiA0MD_BRCTARIsADXoopZunbtZT5qVFh5mLFwEAweoeYNwUuvE4WCUbqpNLeSWCIrB_YrG-LIaAjfOEALw_wcB)  
-- 👯 I’m looking to collaborate on projects related to Web Development/Flutter
-- 💬 Ask me about Web Development and App Development
-- 📫 How to reach me: grvb1515@gmail.com
-- ⚡ Fun fact: I can learn things really fast
+- 📄 I love taking part in hackathons. Check this out: [vFit](https://github.com/guilefoylegaurav/vFit)
 
-[![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=guilefoylegaurav)](https://github.com/anuraghazra/github-readme-stats)
+- ⚡ Fun fact **I can learn things really fast**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/15thread" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="15thread" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/grvb1515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="grvb1515" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilefoylegaurav&show_icons=true&locale=en&layout=compact" alt="guilefoylegaurav" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilefoylegaurav&show_icons=true&locale=en" alt="guilefoylegaurav" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilefoylegaurav&" alt="guilefoylegaurav" /></p>
 
