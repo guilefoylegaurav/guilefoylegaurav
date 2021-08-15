@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilefoylegaurav&label=Profile%20views&color=0e75b6&style=flat" alt="guilefoylegaurav" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms mostly, and some OOP and DBMS. Also Machine Learning.**
+- 🌱 I’m currently learning **Data Structures and Algorithms mostly, and some OOP and DBMS. Also some Machine Learning.**
 
 - 💬 Ask me about **MERN stack, Flutter, Firebase**
 
