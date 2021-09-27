@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">I am a full stack web developer, who also dabbles in Flutter and Machine Learning at times</h3>
+<h3 align="center">Full Stack Web Developer (MERN) + Blockchain Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilefoylegaurav&label=Profile%20views&color=0e75b6&style=flat" alt="guilefoylegaurav" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms mostly, and some OOP and DBMS.**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 💬 Ask me about **MERN stack, Flutter, Firebase**
 
