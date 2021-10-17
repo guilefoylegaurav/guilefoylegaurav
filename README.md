@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilefoylegaurav&label=Profile%20views&color=0e75b6&style=flat" alt="guilefoylegaurav" /> </p>
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **MERN stack, Flutter, Firebase**
 
