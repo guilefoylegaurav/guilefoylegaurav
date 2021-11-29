@@ -15,8 +15,8 @@
 	- **Best Open Innovation Hack Prize** in **83 teams all over India** at HackNITR 2.0 for Flush.
 
 <h3 align="left">What I can help you with:</h3>
-<strong>Web Development</strong>
 
+<strong>Web Development</strong>
  - **React** and **Node**
  - **SQL, MongoDB, Firebase**
  - **Flask** 
@@ -32,9 +32,9 @@
 
 <h3 align="left">What I am learning right now:</h3>
 
- - Spring framework
- - Cloud (AWS)
- - TypeScript and React.js in more detail 
+ - **Spring framework**
+ - Cloud (**AWS**)
+ - **TypeScript** and **React.js** in more detail 
 
 
 
