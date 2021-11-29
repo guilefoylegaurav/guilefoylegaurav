@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilefoylegaurav&label=HITS&color=0e75b6&style=flat" alt="guilefoylegaurav" /> </p>
 <h3>Interested in my profile?</h3>
 
-[Here is my resume](https://drive.google.com/drive/u/0/folders/1f1T4ITVkOtAYc-EGQsCml8rKHuoxulPZ)
+[Here is my resume](https://drive.google.com/file/d/1cSkdINujvevn-jvnr7DPUO3xpypg96Fg/view?usp=sharing)
 <h3 align="left">Featured projects: </h3>
 
  - [vFit](https://github.com/guilefoylegaurav/vFit)
